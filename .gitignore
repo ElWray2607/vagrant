@@ -1,0 +1,5 @@
+.vagrant/
+mount_path.txt
+*.log
+.idea/
+ssh-config*
