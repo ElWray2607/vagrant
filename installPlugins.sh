@@ -1,3 +1,5 @@
+#!/bin/bash
+
 input_file="plugins"
 
 while IFS= read -r plugin || [[ -n "$plugin" ]]; do
